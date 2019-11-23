@@ -1,0 +1,2 @@
+# jfrog-maven
+sample project
